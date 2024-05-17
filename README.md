@@ -12,7 +12,7 @@ Used By JS
 
  📅2024-04-27
 
- Used **Html , css , TailwindCss , JavaScript** 
+ Used : **Html , css , TailwindCss , JavaScript** 
  
 - Hooks Used : useState 
 
