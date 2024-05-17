@@ -1,8 +1,8 @@
 # Trick-StopWatch
 Used By JS
-👩‍💻😎  [Watch Demo](https://fatememohamadian.github.io/Trick-StopWatch/)
+  [Watch Demo](https://fatememohamadian.github.io/Trick-StopWatch/)
 
-                                                           😎😉  
+                                                           
                                                            
                                                       
 ![1](https://github.com/fatemeMohamadian/Trick-StopWatch/assets/155579918/a0102865-cd1d-4c6f-af8a-f910d21458f8)
